@@ -1,2 +1,2 @@
 # My CV
-Link to [CV](http://kchaik0.github.io/kchaiko_cv.pdf "kchaiko cv")
+Link to [Cirriculum Vitae](http://kchaik0.github.io/kchaiko_cv.pdf "kchaiko cv")
